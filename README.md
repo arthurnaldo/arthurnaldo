@@ -44,7 +44,7 @@ I'm always open to interesting projects and discussions about software architect
 
 <div align="center">
   <a href="https://linkedin.com/in/arthurn1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[https://arthurnaldo.dev](https://arthurnaldo.github.io/officialwebsite/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
+  <a href="https://arthurnaldo.github.io/officialwebsite/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 </div>
 
 ---
