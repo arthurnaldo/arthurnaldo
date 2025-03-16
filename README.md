@@ -22,7 +22,7 @@ const arthur = {
 
 ## 🚀 Projects That Matter
 
-My repositories aren't just code—they're solutions to real problems, built with passion and precision:
+My repositories aren't just code—they're solutions to real problems:
 
 
 
