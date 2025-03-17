@@ -37,7 +37,4 @@ I'm always open to interesting projects and discussions!
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=arthurnaldo.arthurnaldo" alt="visitors">
-  <p><i>Great code changes everything. Let's build something amazing together.</i></p>
-</div>
+
