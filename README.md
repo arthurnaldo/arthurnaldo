@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/Debugging%20Skills-Supernatural-blueviolet?style=for-the-badge&logo=stackexchange" />
 </div>
 
-## 💻 Full-Stack Engineering Craftsman
+## 💻 Full-Stack Engineer
 
-I transform complex problems into elegant, efficient solutions. My code doesn't just work—it tells a story.
 
 ```javascript
 const arthur = {
@@ -22,7 +21,6 @@ const arthur = {
 
 ## 🚀 Projects That Matter
 
-My repositories aren't just code—they're solutions to real problems:
 
 
 
@@ -32,15 +30,10 @@ My repositories aren't just code—they're solutions to real problems:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurnaldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🧠 Philosophy
-
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-I believe great software is born at the intersection of technical excellence and human empathy. Every line of code should serve a purpose; every system should solve a problem worth solving.
 
 ## 🔗 Connect & Collaborate
 
-I'm always open to interesting projects and discussions about software architecture, system design, or the perfect cup of coffee.
+I'm always open to interesting projects and discussions! 
 
 <div align="center">
   <a href="https://linkedin.com/in/arthurn1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
