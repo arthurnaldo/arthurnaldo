@@ -10,7 +10,7 @@ const arthur = {
   architecture: ['Microservices', 'Event-Driven', 'Serverless'],
   tools: ['React', 'Node.js', 'Docker', 'Kubernetes', 'AWS'],
   challenges: ['Scaling', 'Performance', 'Security'],
-  currentlyObsessedWith: 'Building systems that scale beautifully'
+  currentlyObsessedWith: 'Building efficient and scalable systems!'
 };
 ```
 
