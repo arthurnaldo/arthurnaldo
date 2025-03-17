@@ -1,10 +1,5 @@
 # 👋 Hello, World! I'm Arthur
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20Quality-Legendary-gold?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Coffee%20Consumption-Critical-red?style=for-the-badge&logo=buymeacoffee" />
-  <img src="https://img.shields.io/badge/Debugging%20Skills-Supernatural-blueviolet?style=for-the-badge&logo=stackexchange" />
-</div>
 
 ## 💻 Full-Stack Engineer
 
