@@ -6,7 +6,7 @@
 
 ```javascript
 const arthur = {
-  languages: ['Go', 'Java(Type)Script', 'Python'],
+  languages: ['Go', 'TypeScript', 'Python'],
   architecture: ['Microservices', 'Event-Driven', 'Serverless'],
   tools: ['React', 'Node.js', 'Docker', 'Kubernetes', 'AWS'],
   challenges: ['Scaling', 'Performance', 'Security'],
