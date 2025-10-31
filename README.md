@@ -14,10 +14,6 @@ const arthur = {
 };
 ```
 
-## 🚀 Projects That Matter
-
-https://www.bumpin.us/
-
 
 ## 📊 GitHub Stats
 
