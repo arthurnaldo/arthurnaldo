@@ -1,1 +1,1 @@
-## I love solving cool problems
+## I like solving cool problems
