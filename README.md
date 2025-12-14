@@ -1,1 +1,1 @@
-## i love solving impactful problems
+## I love solving impactful problems
